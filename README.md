@@ -160,4 +160,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 *Your Name*
 - GitHub: [@sanjoypandit260000-Marker](https://github.com/sanjoypandit260000-Marker)
-- LinkedIn: [Manisha Pandit](https://linkedin.com/in/Manisha Pandit)
+- LinkedIn: [Manisha Pandit](https://linkedin.com/in/sanjoypandit260000-Marke)
