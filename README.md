@@ -159,5 +159,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 *Your Name*
-- GitHub: [@My-username](https://github.com/sanjoypandit260000-marker)
+- GitHub: [@My-username](https://github.com/sanjoypandit260000-Marker)
 - LinkedIn: [My-linkedin](https://linkedin.com/in/Manisha Pandit)
