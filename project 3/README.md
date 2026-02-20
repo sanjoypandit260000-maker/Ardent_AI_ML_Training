@@ -1,4 +1,4 @@
-# 🚀 Student Portfolio — AI & Python Projects
+# 🚀 Manisha Portfolio — AI & Python Projects
 
 > A fully responsive, animated personal portfolio website built with **pure HTML, CSS & JavaScript** — showcasing AI/ML projects completed during a hands-on workshop.
 
