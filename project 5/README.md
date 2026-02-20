@@ -109,7 +109,7 @@ Student Name — B.Sc (CSE), Haldia Institute of Management
 Mentored by: SK Sahil (AI Developer & Tutor) — @Code_ScholarEU
 
 🐙 GitHub: https://github.com/your-username
-📧 Email: your-email@example.com
+📧 Email: your-sanjoypandit260000@gmail.com
 📸 Instagram: @code_scholar_eu
 
 
