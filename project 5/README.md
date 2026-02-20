@@ -60,7 +60,9 @@ bashpython emotion_detection.py
 Press q to quit the live window.
 
 🖥️ Demo
-![Uploading image.png…]()
+
+<img width="366" height="482" alt="image" src="https://github.com/user-attachments/assets/fee162bc-bd8c-478d-a24e-595250fff9c1" />
+
 
 ✅ Webcam opens
 ✅ Face detected → green bounding box drawn
